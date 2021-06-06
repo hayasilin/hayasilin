@@ -8,6 +8,6 @@
 
 - :hammer: LINE iOS developer
 - :orange_book: Focusing on iOS (Swift / SwiftUI / Combine)
-- ⚡: Fun fact: iOS & Android CI/CD master
+- ⚡: iOS & Android CI/CD master
 - 🌱: Part-time backend developer
 - 😄: Every year my skill-set will not be the same
