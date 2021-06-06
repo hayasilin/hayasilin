@@ -4,7 +4,7 @@
 
 ![version](https://img.shields.io/badge/version-v1.0.0-informational.svg)
 ![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![coverage](https://img.shields.io/badge/coverage-100%-important.svg)
+![coverage](https://img.shields.io/badge/coverage-100-important.svg)
 
 - :hammer: LINE iOS developer
 - :orange_book: Focusing on iOS (Swift / SwiftUI / Combine)
