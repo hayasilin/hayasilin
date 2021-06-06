@@ -2,5 +2,8 @@
 
 ### Hi there 👋
 
+![version](https://img.shields.io/badge/version-v1.0.0-informational.svg)
+![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+
 - :hammer: LINE iOS developer
 - :orange_book: Focusing on iOS (Swift / SwiftUI / Combine)
