@@ -10,4 +10,4 @@
 - :orange_book: Focusing on iOS (Swift / SwiftUI / Combine)
 - ⚡: iOS & Android CI/CD master
 - 🌱: Part-time backend developer
-- 😄: Every year my skill-set will not be the same
+- 😄: Skill-set upgrad every year
