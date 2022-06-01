@@ -7,7 +7,7 @@
 ![coverage](https://img.shields.io/badge/coverage-100-important.svg)
 
 - :hammer: LINE iOS developer
-- :orange_book: Focusing on iOS (Swift / SwiftUI / Combine)
+- :orange_book: Focusing on iOS
 - ⚡: iOS & Android CI/CD master
 - 🌱: Part-time backend developer
 - 😄: Skill-set upgrad every year
