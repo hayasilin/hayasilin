@@ -2,7 +2,7 @@
 
 ### Hello World 👋
 
-![version](https://img.shields.io/badge/version-v1.0.0-informational.svg)
+![version](https://img.shields.io/badge/version-v2.0.0-informational.svg)
 ![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![coverage](https://img.shields.io/badge/coverage-100-important.svg)
 
